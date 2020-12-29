@@ -107,9 +107,5 @@ for k, v in newtup:
     a += 1
     fhand.write("{} {}\n".format(v,k))  # updated value in file
 fhand.close()
-#file updation ie update score value in file
-#if same score then how to sort
-#based on wrong answers or time taken
-#when you enter aakanksha display is bad
-#case sensitive in guess and also in stats
-#do u wish to continue
+
+
